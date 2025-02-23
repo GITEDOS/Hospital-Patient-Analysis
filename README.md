@@ -78,8 +78,9 @@ This case study analyzes hospital data from **January 2023 to March 2025**, focu
 
 ## **Files in This Repository**  
 - **Hospital_Patient_Data1.xlsx** – Cleaned and processed hospital dataset.  
-- **Hospital_Analysis_Report.pdf** – Full case study and insights.  
-- **Charts_Visuals.png** – Graphs and dashboards used for analysis.
+- **Hospital Data Analysis.docx** – Full case study and insights.  
+
+## **Visuals**
 ![2025-02-23 (1)](https://github.com/user-attachments/assets/33566aab-6e96-42b6-8e36-39c13220dd33)
 ![2025-02-23 (2)](https://github.com/user-attachments/assets/20bb1560-093c-43c6-8e6e-b7ac1356ee09)
 ![2025-02-23 (3)](https://github.com/user-attachments/assets/fe73913e-b7c4-46ab-b795-e24cb473073d)
