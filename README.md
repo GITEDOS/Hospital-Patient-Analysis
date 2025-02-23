@@ -2,7 +2,7 @@
 # **Hospital Data Analysis: Case Study**  
 
 ## **Overview**  
-This case study analyzes hospital data from **January 2023 to December 2024**, focusing on patient admissions, treatment costs, satisfaction levels, and readmission rates. The goal is to identify key trends, inefficiencies, and actionable insights to improve hospital operations and patient care.  
+This case study analyzes hospital data from **January 2023 to March 2025**, focusing on patient admissions, treatment costs, satisfaction levels, and readmission rates. The goal is to identify key trends, inefficiencies, and actionable insights to improve hospital operations and patient care.  
 
 ---  
 
