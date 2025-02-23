@@ -80,12 +80,16 @@ This case study analyzes hospital data from **January 2023 to March 2025**, focu
 - **Hospital Patient Data1.xlsx** – Cleaned and processed hospital dataset.  
 - **Hospital_Analysis_Report.pdf** – Full case study and insights.  
 - **Charts_Visuals.png** – Graphs and dashboards used for analysis.
--   ![2025-02-23 (1)](https://github.com/user-attachments/assets/2dc7b478-9189-4c45-bb62-5f297296f2c4)
--   ![2025-02-23 (2)](https://github.com/user-attachments/assets/76ec3d5c-ba6e-48e3-b654-f52cb79c038a)
--   ![2025-02-23 (3)](https://github.com/user-attachments/assets/e41f452c-fa79-4021-acba-999847355090)
-![2025-02-23 (4)](https://github.com/user-attachments/assets/dac1f64c-ff26-432e-a55e-bb43cd982627)
-![2025-02-23 (5)](https://github.com/user-attachments/assets/1d002dea-93f7-40bb-a658-42f62d6cca5c)
-![2025-02-23 (6)](https://github.com/user-attachments/assets/606816dd-d89e-4edc-9ab6-3bbcd19f6338)
+![2025-02-23 (1)](https://github.com/user-attachments/assets/33566aab-6e96-42b6-8e36-39c13220dd33)
+![2025-02-23 (2)](https://github.com/user-attachments/assets/20bb1560-093c-43c6-8e6e-b7ac1356ee09)
+![2025-02-23 (3)](https://github.com/user-attachments/assets/fe73913e-b7c4-46ab-b795-e24cb473073d)
+![2025-02-23 (4)](https://github.com/user-attachments/assets/c1f5410b-c205-4c1e-86aa-15c1708fcce6)
+![2025-02-23 (5)](https://github.com/user-attachments/assets/9f8e34df-de80-4e00-a21f-75d535eab2e0)
+![2025-02-23 (6)](https://github.com/user-attachments/assets/b6784bc8-4214-4869-a766-cf0e6c288fd9)
+
+
+
+
 
 ---  
 
